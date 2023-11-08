@@ -1,0 +1,14 @@
+typescript boolean and bigint types 
+
+
+1. string comparison in ts : declare two variables  str1 and str2 of type string and assign them different 
+sentences. compare the two strings and store the result (ttrue or false ) in a variable called areEqual .
+
+
+2. substring in ts : declare a variable longtext of type string an assign it a long sentence .
+ extract the firest 10 charecters  from the longtext and store the in a variable called shortText .
+
+
+3. string  Template :  Declare variables and price of type string  and number , respectively .
+create string using template literals to display the product and its place in the format of  product{ product } is priced 
+at {price} dollars .

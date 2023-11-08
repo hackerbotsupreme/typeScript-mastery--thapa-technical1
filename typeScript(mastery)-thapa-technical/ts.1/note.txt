@@ -1,0 +1,71 @@
+so why should we learn typescript  ? 
+
+    1. angular is a modern framework built entirely in typescript , and as a result 
+    using type sscript  with angular provides a seamless experience .
+    means it prefres ts.typescript over javascript . 
+
+    2.vue.javascript - 
+    vue is a written in typescript  itself .
+    Is Vue JS written in TypeScript?
+    Using Vue with TypeScript | Vue.js
+    Vue is written in TypeScript itself and provides first-class TypeScript support. All official Vue packages come with bundled type declarations that should work out-of-the-box.
+
+    3. react 
+    in industry every professional , every big project uses typescript .
+    ts is more preffered .
+
+
+    4. next js 
+    next js uses typescript as a default language .
+
+    so there is more than enogh reasons to learn typescript .
+
+what is typescript ?
+
+    typescript is a siperset of js that adds static typing and other features to enhance 
+    javascript development .
+
+    js + more features  = typeScript 
+
+    and typescript is a superset of js , which means any js code is also a valid js code ,
+    is also a valid typescript code . 
+
+    Advantages  -> 
+        1. easier to read .
+        2. easier to write .
+        3. easier to maintain .
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Installation -> 
+to install it go to the 
+official typescript website 
+
+
+click on  Try TypeScript Now
+Online or via npm
+
+
+then on your computer via npm 
+
+
+scroll down and and follow the npm 
+here ,
+via npm
+You can use npm to install TypeScript globally, this means that you can use the tsc command anywhere in your terminal.
+To do this, run npm install -g typescript. This will install the latest version (currently 5.2).
+npm install -g typescript
+
+
+then to confirm its Installation type->  tsc  --v  or  tsc  --version
+
+then create a new file , hello world.ts (.ts is for files and .tsx is for jsx elements and note js catches error during runtime 
+but typescript catches error using compile time which is a fucking huge advantage) 
+
+then type 'tsc hello_world.ts' to compile it into the js . (terminal understands js not ts )
+and it will create a new  compiled js file 'hello world.js'
+
+now to run it type - node hello_world.js 
+success
+
+
